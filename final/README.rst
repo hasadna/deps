@@ -1,5 +1,5 @@
-Final DEPs
+טשמ סופיים
 ==========
 
-DEPs that have been approved and fully implemented.
-See `DEP 1 <../final/0001-dep-process.rst>`_ for details.
+טשמים שהם הצעות חוק שהוגשו והתקבלו.
+ראה `טשמ 1 <../draft/0001-gep-process.rst>`_ לפרטים.

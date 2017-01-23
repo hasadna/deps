@@ -1,5 +1,5 @@
-Superseded DEPs
-===============
+טשמים ששודרגו
+=============
 
-DEPs that have been replaced/superseeded by newer DEPs.
-See `DEP 1 <../final/0001-dep-process.rst>`_ for details.
+כל טשמ שהוחלפו בטשמ חדש יותר.
+ראי `טשמ 1 <../draft/0001-gep-process.rst>`_ לפרטים.

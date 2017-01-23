@@ -1,5 +1,5 @@
-Rejected DEPs
-=============
+טשמים שנדחו
+===========
 
-DEPs that have rejected by the Technical Board.
-See `DEP 1 <../final/0001-dep-process.rst>`_ for details.
+טשמים שנדחו על ידי ועד העורכים.
+ראה `טשמ 1 <../draft/0001-gep-process.rst>`_ לפרטים.

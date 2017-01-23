@@ -1,5 +1,5 @@
-Draft DEPs
+טשמ בחיבור
 ==========
 
-DEPs that are still in the process of being drafted and have not yet been
-approved or denied. See `DEP 1 <../final/0001-dep-process.rst>`_ for details.
+טשמים שהמחברים עדיין בתהליך החיבור וטרם הגישו אותם לסקירה והחלטה.
+ראה `טשמ 1 <../draft/0001-gep-process.rst>`_ לפרטים.
