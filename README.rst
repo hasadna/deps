@@ -1,7 +1,6 @@
-Django Enhancement Proposals (DEPs)
-===================================
+טיוטות לשיפור הממשל (טשמות)
+===========================
 
-Django Enhancement Proposals (DEPs) are a formal way of proposing large feature
-additions to the Django Web framework (http://www.djangoproject.com/).
-
-See `DEP 1 <final/0001-dep-process.rst>`_ for details.
+טיוטות לשיפור הממשל הן דרך מובנת היטב בה אנחנו יכולים להציע מסמכי מדיניות, לתאר
+תהליכים ולהציע חוקים.
+ראה `טשמ 1 <../draft/0001-gep-process.rst>`_ לפרטים.
