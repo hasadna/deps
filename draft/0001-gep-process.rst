@@ -16,28 +16,20 @@
 מה זה טשמ?
 ==========
 
+טשמ הוא ראשי תיבות של טיוטה לשיפור הממשל - מסמך המספק לקהילת פעילים פוליטים
+ידע אודות מדיניות, הצעות חוק או תהליכים. טשמים מתמצתים את עמדת התנועה בעניין מסויים
+ומתארים את העמדות השונות שעלו לדיון ואת הטעם לבחירות שנעשו.
+
+אוסף הטשמים מרכיבים את המצע של התנועה ומכילים את מאגר הידע שלאורו התנועה פועלת. 
+
+הרעיון והשיטה מעותקים משיטת ה DEPs של קהילת הג'אנגו שבתורה מהווה העתק של שיטת ה
+`PEPs <https://www.python.org/dev/peps/>`_ של קהילת הפייתון.
+
     האנגלית במסמך היא לפני תירגום והתאמה ומקורה במערכת המקורית.
 
-DEP stands for Django Enhancement Proposal. A DEP is a design document
-providing information to the Django community, or describing a new feature
-or process for Django. DEPs provide concise technical specifications of
-features, along with rationales.
-
-We intend DEPs to be the primary mechanisms for proposing major new features,
-for collecting community input on issues, and for documenting design
-decisions that have gone into Django.
-
-The concept and implementation of DEPs (and this document itself!) is a nearly
-direct copy of `Python's PEP process <https://www.python.org/dev/peps/>`_ . If
-you're already familiar with PEPs, you should be able to quickly grok DEPs by
-reading the `differences between DEPs and PEPs`_.
 
 סוגי טשמ
 ========
-
-מסמך זה שוחרר לרשות הציבור בהתאם לרשיון - Creative Commons
-CC0 1.0 Universal license (https://creativecommons.org/publicdomain/zero/1.0/deed).
-Z
 
 There are three kinds of DEPs:
 
