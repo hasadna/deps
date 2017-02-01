@@ -32,32 +32,13 @@
     האנגלית במסמך היא לפני תירגום והתאמה ומקורה במערכת המקורית.
 
 
-סוגי טשמ
+סוגי טש״מ
 ========
+ישנם שלושה סוגים של מסמכי טש״מ:
 
-There are three kinds of DEPs:
-
-1. A **Feature** DEP describes a new feature or implementation
-   for Django. Most DEPs will be Feature DEPs.
-
-2. An **Informational** DEP describes a Django design issue, or
-   provides general guidelines or information to the Django community,
-   but does not propose a new feature. Informational DEPs do not
-   necessarily represent a community consensus or
-   recommendation, so users and implementers are free to ignore
-   Informational DEPs or follow their advice.
-
-3. A **Process** DEP describes a process surrounding Django, or
-   proposes a change to (or an event in) a process.  Process DEPs are
-   like Feature DEPs but apply to areas other than the Django
-   framework itself.  They may propose an implementation, but not to
-   Django's codebase; they often require community consensus; unlike
-   Informational DEPs, they are more than recommendations, and users
-   are typically not free to ignore them.  Examples include
-   procedures, guidelines, changes to the decision-making process, and
-   changes to the tools or environment used in Django development.
-   Any meta-DEP is also considered a Process DEP. (So this document
-   is a Process DEP).
+1. טש״מ **יישום**: הצעת חוק, תקנה, פעילות, רפורמה וכ׳. רוב השטמים יהיו מסוג ״יישום״.
+2. טש״מ **מידע**: קווים מנחים כלליים, רקע, הסברים וכו׳. למסמכי מידע לא מחייבים מסמכי טש״מ מסוג אחר (״יישום״ או ״תהליך״) ואינם משקפים בהכרח עמדות המוסכמות על כלל חברי המפלגה.
+3. טש״מ **תהליך**: תהליכים שונים הקשורים למפלגה, ניטור שינויים ועדכון תהליכי קבלת החלטות, ועדכון קווים מנחים בהתאם. מסמכי תהליך עוסקים בכלים, במשאבים, סביבה ארגונית, דפוסי עבודה וכו׳. בשונה מטש״מ ״מידע״, מסמכים אלה הם מחייבים ומצריכים קונצנזוס של חברי המפלגה.
 
 הליך הגשת טשמ
 =============
